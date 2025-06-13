@@ -6,7 +6,7 @@
   "action": {
     "title": "Dwemer Sphere",
     "icon": "icon.svg",
-    "popover": "index.html",
+    "popover": "/dwemer-sphere/index.html",
     "width": 600,
     "height": 600
   },

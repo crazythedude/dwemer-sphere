@@ -1,9 +1,10 @@
 {
+  "manifest_version": 1,
   "id": "dwemer-sphere",
   "name": "Dwemer Kinetic Storage Sphere",
-  "icon": "icon.svg",
-  "type": "popover",
   "version": "1.0.0",
+  "type": "popover",
   "entry": "index.html",
+  "icon": "icon.svg",
   "permissions": []
 }

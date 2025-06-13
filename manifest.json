@@ -1,10 +1,14 @@
 {
   "manifest_version": 1,
-  "id": "dwemer-sphere",
   "name": "Dwemer Kinetic Storage Sphere",
   "version": "1.0.0",
-  "type": "popover",
-  "entry": "index.html",
-  "icon": "icon.svg",
+  "icon": "icon.svg",          /* optional—remove line if no icon yet */
+  "action": {
+    "title": "Dwemer Sphere",
+    "icon": "icon.svg",
+    "popover": "index.html",   /* this is your puzzle file */
+    "width": 600,
+    "height": 600
+  },
   "permissions": []
 }

@@ -2,7 +2,7 @@
   "id": "dwemer-sphere",
   "title": "Dwemer Kinetic Storage Sphere",
   "icon": "icon.svg",
-  "type": "popover",          /* shows as a floating window */
-  "entry": "index.html",      /* the file you renamed */
-  "permissions": []           /* none needed for solo-play */
+  "type": "popover",
+  "entry": "index.html",
+  "permissions": []
 }
